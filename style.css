@@ -8,3 +8,11 @@ div {
 	text-align: center;
 	border-bottom: solid 6px gold;
 }
+
+h2 {
+	color: gold;
+}
+hr {
+	height: 2px;
+	background-color: gold;
+}
