@@ -1,0 +1,10 @@
+img {
+	width: 300px;
+	height: 300px;
+}
+
+div {
+	background-color: rgb(227, 230, 233);
+	text-align: center;
+	border-bottom: solid 6px gold;
+}
